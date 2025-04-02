@@ -1,0 +1,11 @@
+NAME="Bridge"
+PRETTY_NAME="Bridge Linux"
+ID=bridge
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/AUOS123"
+DOCUMENTATION_URL="https://github.com/AUOS123"
+SUPPORT_URL="https://github.com/AUOS123"
+BUG_REPORT_URL="https://github.com/AUOS123"
+PRIVACY_POLICY_URL="https://github.com/AUOS123"
+LOGO=archlinux-logo
