@@ -130,9 +130,11 @@ zsh
 git
 base-devel
 networkmanager
-pavucontrol
-pipewire
 bluez
 bluez-utils
 firefox
-
+pipewire
+pavucontrol
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
