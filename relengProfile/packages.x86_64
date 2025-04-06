@@ -149,3 +149,12 @@ zoxide
 fzf
 starship
 lsd
+
+#graphical-environment-test
+xorg-server
+xorg-apps
+xorg-xinit
+sddm
+cinnamon
+nemo-fileroller
+cinnamon-translations
